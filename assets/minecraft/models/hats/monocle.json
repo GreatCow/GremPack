@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/hat_textures/disguiseone",
-		"2": "block/hat_textures/gold",
+		"2": "minecraft:block/gold",
 		"3": "block/hat_textures/clearvisor",
 		"particle": "block/hat_textures/disguiseone"
 	},

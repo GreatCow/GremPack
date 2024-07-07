@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/hat_textures/divehelmetfull",
-		"1": "block/hat_textures/cut_copper",
+		"1": "minecraft:block/cut_copper",
 		"2": "block/hat_textures/divehelmetcut",
 		"3": "block/hat_textures/divehelmetglass",
 		"4": "block/hat_textures/trans",

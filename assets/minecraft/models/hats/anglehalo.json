@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/hat_textures/gold",
-		"particle": "block/hat_textures/gold"
+		"0": "minecraft:block/gold",
+		"particle": "minecraft:block/gold"
 	},
 	"elements": [
 		{

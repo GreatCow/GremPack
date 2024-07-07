@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/hat_textures/horse/horse_brown",
-		"particle": "block/hat_textures/horse/horse_brown"
+		"0": "minecraft:entity/horse/horse_brown",
+		"particle": "minecraft:entity/horse/horse_brown"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/hat_textures/iron_block",
+		"0": "minecraft:block/iron_block",
 		"1": "block/hat_textures/clearvisor",
-		"particle": "block/hat_textures/iron_block"
+		"particle": "minecraft:block/iron_block"
 	},
 	"elements": [
 		{
