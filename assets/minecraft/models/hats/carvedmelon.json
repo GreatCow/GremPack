@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:block/melon_top",
+		"0": "block/melon_top",
 		"1": "block/hat_textures/carvedmelon",
-		"2": "minecraft:block/melon_side",
-		"particle": "minecraft:block/melon_top"
+		"2": "block/melon_side",
+		"particle": "block/melon_top"
 	},
 	"elements": [
 		{

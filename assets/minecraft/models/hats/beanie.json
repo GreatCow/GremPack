@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/hat_textures/beanieravenclaw",
-		"1": "minecraft:block/blue_wool",
-		"2": "minecraft:block/light_gray_wool",
+		"1": "block/blue_wool",
+		"2": "block/light_gray_wool",
 		"particle": "block/hat_textures/beanieravenclaw"
 	},
 	"elements": [

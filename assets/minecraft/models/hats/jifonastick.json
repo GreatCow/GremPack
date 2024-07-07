@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/hat_textures/jif",
-		"1": "minecraft:item/stick",
+		"1": "item/stick",
 		"particle": "block/hat_textures/jif"
 	},
 	"elements": [

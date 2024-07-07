@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/hat_textures/redtexture",
 		"1": "block/hat_textures/softwhite",
-		"2": "minecraft:entity/cat/siamese",
+		"2": "entity/cat/siamese",
 		"particle": "block/hat_textures/redtexture"
 	},
 	"elements": [
