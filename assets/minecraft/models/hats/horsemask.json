@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "entity/horse/horse_brown",
-		"particle": "entity/horse/horse_brown"
+		"0": "block/horse/horse_brown",
+		"particle": "block/horse/horse_brown"
 	},
 	"elements": [
 		{
