@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "block/cat/siamese",
-		"particle": "block/cat/siamese"
+		"0": "block/hat_textures/cat/siamese",
+		"particle": "block/hat_textures/cat/siamese"
 	},
 	"elements": [
 		{

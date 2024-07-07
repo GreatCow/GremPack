@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "block/cat/all_black",
-		"particle": "block/cat/all_black"
+		"0": "block/hat_textures/cat/all_black",
+		"particle": "block/hat_textures/cat/all_black"
 	},
 	"elements": [
 		{
