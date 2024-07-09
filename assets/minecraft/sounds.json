@@ -1,5 +1,6 @@
 {
   "block.bell.use": {
+    "replace": true,
     "sounds": [
       {
         "attenuation_distance": 32,
@@ -39,7 +40,6 @@
         "volume": 12.0
       }
     ],
-    "replace": true,
     "subtitle": "subtitles.block.bell.use"
   }
 }
