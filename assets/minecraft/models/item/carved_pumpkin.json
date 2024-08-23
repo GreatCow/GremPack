@@ -56,7 +56,8 @@
 		{ "predicate": { "custom_model_data": 49 }, "model": "hats/swtelevision" },
 		{ "predicate": { "custom_model_data": 50 }, "model": "hats/beemovietelevision" },
 		{ "predicate": { "custom_model_data": 51 }, "model": "hats/chefhat" },
-		{ "predicate": { "custom_model_data": 52 }, "model": "hats/remychefhat" }
+		{ "predicate": { "custom_model_data": 52 }, "model": "hats/remychefhat" },
+		{ "predicate": { "custom_model_data": 53 }, "model": "hats/boot" }
 		
 	]
 }
