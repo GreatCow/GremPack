@@ -18,4 +18,5 @@
 		{ "predicate": { "custom_model_data": 211 }, "model": "gremcraft:item/mugs/mug_11" },
 		{ "predicate": { "custom_model_data": 212 }, "model": "gremcraft:item/mugs/mug_7_low" }
 	]
+
 }
