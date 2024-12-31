@@ -16,7 +16,9 @@
 		{ "predicate": { "custom_model_data": 209 }, "model": "gremcraft:item/mugs/mug_9" },
 		{ "predicate": { "custom_model_data": 210 }, "model": "gremcraft:item/mugs/mug_10" },
 		{ "predicate": { "custom_model_data": 211 }, "model": "gremcraft:item/mugs/mug_11" },
-		{ "predicate": { "custom_model_data": 212 }, "model": "gremcraft:item/mugs/mug_7_low" }
+		{ "predicate": { "custom_model_data": 212 }, "model": "gremcraft:item/mugs/mug_7_low" },
+	  	{ "predicate": { "custom_model_data": 213 }, "model": "gremcraft:item/mugs/mug_hot" },
+	  	{ "predicate": { "custom_model_data": 214 }, "model": "gremcraft:item/mugs/mug_nog" }
 	]
 
 }
