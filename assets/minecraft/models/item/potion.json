@@ -5,17 +5,17 @@
         "layer1": "item/potion"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 201 }, "model": "gremcraft:item/mugs/mug_1" },
-		{ "predicate": { "custom_model_data": 202 }, "model": "gremcraft:item/mugs/mug_2" },
-		{ "predicate": { "custom_model_data": 203 }, "model": "gremcraft:item/mugs/mug_3" },
-		{ "predicate": { "custom_model_data": 204 }, "model": "gremcraft:item/mugs/mug_4" },
-		{ "predicate": { "custom_model_data": 205 }, "model": "gremcraft:item/mugs/mug_5" },
-		{ "predicate": { "custom_model_data": 206 }, "model": "gremcraft:item/mugs/mug_6" },
-		{ "predicate": { "custom_model_data": 207 }, "model": "gremcraft:item/mugs/mug_7" },
-		{ "predicate": { "custom_model_data": 208 }, "model": "gremcraft:item/mugs/mug_8" },
-		{ "predicate": { "custom_model_data": 209 }, "model": "gremcraft:item/mugs/mug_9" },
-		{ "predicate": { "custom_model_data": 210 }, "model": "gremcraft:item/mugs/mug_10" },
-		{ "predicate": { "custom_model_data": 211 }, "model": "gremcraft:item/mugs/mug_11" },
-		{ "predicate": { "custom_model_data": 212 }, "model": "gremcraft:item/mugs/mug_7_low" }
+		{ "predicate": { "custom_model_data": 201 }, "model": "gremcraft:item/mugs/mug1" },
+		{ "predicate": { "custom_model_data": 202 }, "model": "gremcraft:item/mugs/mug2" },
+		{ "predicate": { "custom_model_data": 203 }, "model": "gremcraft:item/mugs/mug3" },
+		{ "predicate": { "custom_model_data": 204 }, "model": "gremcraft:item/mugs/mug4" },
+		{ "predicate": { "custom_model_data": 205 }, "model": "gremcraft:item/mugs/mug5" },
+		{ "predicate": { "custom_model_data": 206 }, "model": "gremcraft:item/mugs/mug6" },
+		{ "predicate": { "custom_model_data": 207 }, "model": "gremcraft:item/mugs/mug7" },
+		{ "predicate": { "custom_model_data": 208 }, "model": "gremcraft:item/mugs/mug8" },
+		{ "predicate": { "custom_model_data": 209 }, "model": "gremcraft:item/mugs/mug9" },
+		{ "predicate": { "custom_model_data": 210 }, "model": "gremcraft:item/mugs/mug10" },
+		{ "predicate": { "custom_model_data": 211 }, "model": "gremcraft:item/mugs/mug11" },
+		{ "predicate": { "custom_model_data": 212 }, "model": "gremcraft:item/mugs/mug7" }
 	]
 }
