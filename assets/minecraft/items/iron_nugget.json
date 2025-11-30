@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "gremcraft:item/ivoted"
                 }
+            },
+            {
+              "threshold": 2,
+              "model": {
+                "type": "model",
+                "model": "gremcraft:item/mailbox_arm"
+              }
             }
         ]
     }
